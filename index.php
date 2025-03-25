@@ -12,7 +12,7 @@
 
     <h1>Onlineshop - Startseite</h1>
 
-    <p>Herzlich willkommen in unsererm Onlineshop</p>
+    <p>Herzlich willkommen in unserem Onlineshop</p>
 
     <?php require_once("templates/footer.php"); ?>
 
