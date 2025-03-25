@@ -89,7 +89,7 @@
     ?>
 
     <!-- Login-Skript einbinden -->
-    <?php require_once("login.php"); ?>
+    <?php require_once("templates/login.php"); ?>
 
     <h1>Onlineshop - Warenkorb</h1>
     

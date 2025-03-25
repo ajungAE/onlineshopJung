@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <?php require_once("login.php"); ?>
+    <?php require_once("templates/login.php"); ?>
     <?php require_once("templates/navigation.php"); ?>
 
     <h1>Onlineshop - Über uns</h1>

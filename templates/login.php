@@ -55,4 +55,4 @@
     }
 ?>
 
-<?php require_once("cart-widget.php") ?>
+<?php require_once("templates/cart-widget.php") ?>

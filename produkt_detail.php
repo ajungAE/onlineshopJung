@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add_product'])) {
 }
 ?>
 
-<?php require_once("login.php"); ?>
+<?php require_once("templates/login.php"); ?>
 <h1>Onlineshop - Produktdetails</h1>
 <?php require_once("templates/navigation.php"); ?>
 
