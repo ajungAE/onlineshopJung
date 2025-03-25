@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Fruchtbonbons",
+        "price": 3.99,
+        "description": "Die sind extra lecker.",
+        "image": "images/fruchtbonbons.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Zahncreme",
+        "price": 12.99,
+        "description": "Immer wieder erfrischend.",
+        "image": "images/zahncreme.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Besen",
+        "price": 6.99,
+        "description": "Ein Muss für jeden Haushalt.",
+        "image": "images/besen.jpg"
+    }
+]
